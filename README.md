@@ -7,7 +7,7 @@
 ## I'm a Creator, Developer, and Movement Coach!
 
 🏫 Currently studying Web Design at The University of Florida</br>
-👩‍💻 Journeying into the world of Javascript</br>
+👩‍💻 Journeying into the world of JavaScript</br>
 🕺 I love dancing and creating</br>
 🧘‍♀️ I have a passion for health and wellness</br>
 🌄 Can’t find me? I’m probably hiking the trails at various National Parks</br> 
