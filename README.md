@@ -8,10 +8,9 @@
 
 🏫 Currently a Graduate Student at The University of Florida studying Web Design</br>
 👩‍💻 Journeying into the world of JavaScript</br>
-🕺 I am currently dancing with Sonia Plumb Dance Company in Hartford, CT</br>
 🧘‍♀️ I have a passion for health and wellness</br>
 🌄 Can’t find me? I’m probably hiking the trails at various National Parks</br> 
-📚 Favorite book in 2021: The Midnight Library by Matt Haig</br>
+📚 Favorite book: The Midnight Library by Matt Haig</br>
 📬 Let's connect: <a href="mailto:claire.sersun@gmail.com">claire.sersun@gmail.com</a></br>
 
 ### Languages and Tools:
