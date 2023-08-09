@@ -29,7 +29,7 @@
 
 <details> 
     <summary>Highlighted repositories</summary>
-<a href=https://github.com/clairesersun/single-price-grid-compenent-challenge-from-frontent-mentor><img align="left" alt="Claire's Highlighted Repository" src="https://github-readme-stats.vercel.app/api/pin/?username=clairesersun&repo=single-price-grid-compenent-challenge-from-frontent-mentor&theme=outrun)]"/></a>
+<a href=https://github.com/clairesersun/timeslot><img align="left" alt="Claire's Highlighted Repository" src="https://github-readme-stats.vercel.app/api/pin/?username=clairesersun&repo=timeslot&theme=outrun)]"/></a>
 <a href=https://github.com/clairesersun/m4-hw4-sersun-claire><img align="left" alt="Claire's Highlighted Repository" src="https://github-readme-stats.vercel.app/api/pin/?username=clairesersun&repo=m4-hw4-sersun-claire&theme=outrun)]"/></a>
     </details>
 
