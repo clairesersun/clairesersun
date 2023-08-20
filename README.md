@@ -6,7 +6,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/clairesersun/)](https://www.linkedin.com/in/clairesersun/)
 ## I'm a Creator, Developer, and Movement Coach!
 
-🏫 Currently a Graduate Student at The University of Florida studying Web Design</br>
+🏫 Graduated with a Masters in Web Design from The University of Florida</br>
 👩‍💻 Journeying into the world of JavaScript</br>
 🧘‍♀️ I have a passion for health and wellness</br>
 🌄 Can’t find me? I’m probably hiking the trails at various National Parks</br> 
