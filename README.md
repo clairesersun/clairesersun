@@ -6,8 +6,8 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/clairesersun/)](https://www.linkedin.com/in/clairesersun/)
 ## I'm a Creator, Developer, and Movement Coach!
 
+👩‍💻 UI/UX Designer @ Veoci</br>
 🏫 Graduated with a Masters in Web Design from The University of Florida</br>
-👩‍💻 Journeying into the world of JavaScript</br>
 🧘‍♀️ I have a passion for health and wellness</br>
 🌄 Can’t find me? I’m probably hiking the trails at various National Parks</br> 
 📚 Favorite book: The Midnight Library by Matt Haig</br>
@@ -24,8 +24,7 @@
 </br>
 </br>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=clairesersun&theme=outrun&hide=contribs,issues&show_icons=true&hide_border=true" alt="Claire's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clairesersun&theme=outrun&layout=compact&hide_border=true" /></a> |
-| ------------- | ------------- |
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clairesersun&theme=outrun&layout=compact&hide_border=true" /></a>
 
 <details> 
     <summary>Highlighted repositories</summary>
