@@ -24,8 +24,6 @@
 </br>
 </br>
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clairesersun&theme=outrun&layout=compact&hide_border=true" /></a>
-
 <details> 
     <summary>Highlighted repositories</summary>
 <a href=https://github.com/clairesersun/timeslot><img align="left" alt="Claire's Highlighted Repository" src="https://github-readme-stats.vercel.app/api/pin/?username=clairesersun&repo=timeslot&theme=outrun)]"/></a>
