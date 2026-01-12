@@ -25,6 +25,9 @@
 </br>
 
 <details> 
+    
     <summary>Highlighted repositories</summary>
+    
 [trauma-informed-design](https://github.com/clairesersun/trauma-informed-design)
+
     </details>
