@@ -26,5 +26,5 @@
 
 <details> 
     <summary>Highlighted repositories</summary>
-<a href=https://github.com/clairesersun/trauma-informed-design><img align="left" alt="Claire's Highlighted Repository" src="https://github.com/clairesersun/trauma-informed-design"/></a>
+[trauma-informed-design](https://github.com/clairesersun/trauma-informed-design)
     </details>
